@@ -1,0 +1,16 @@
+#count{
+    align-content: center;
+    display:flex;
+    margin:auto;
+    font-size: 20px;
+    /* border: 1px solid red; */
+    width: 50%;
+    margin:auto;
+    gap:2%
+}
+button{
+    /* padding:0.5%; */
+    font-size: 20px;
+   height: 5%;
+   width:10%
+}
